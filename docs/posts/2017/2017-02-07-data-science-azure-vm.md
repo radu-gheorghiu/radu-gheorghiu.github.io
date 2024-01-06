@@ -2,9 +2,6 @@
 title: "Data Science Azure VM"
 authors: 
     - radugheorghiu
-date: 
-    created: 2017-02-07
-    updated: 2024-01-06
 tags: []
 categories: ["Machine Learning", "AI"]
 slug: "data-science-azure-vm"

@@ -2,9 +2,6 @@
 title: "Watch out for Julia"
 authors: 
     - radugheorghiu
-date: 
-    created: 2017-02-04
-    updated: 2024-01-06
 tags: []
 categories: ["Machine Learning", "AI"]
 slug: "watch-out-for-julia"

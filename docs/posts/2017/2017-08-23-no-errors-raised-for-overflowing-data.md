@@ -2,9 +2,6 @@
 title: "No errors raised for overflowing data when using CHAR and VARCHAR data types in SQL Server"
 authors: 
     - radugheorghiu
-date: 
-    created: 2017-08-23
-    updated: 2024-01-06
 tags: []
 categories: ["Data Engineering", "SQL Server"]
 slug: "no-errors-raised-for-overflowing-data-when-using-char-and-varchar-data-types-in-sql-server"
