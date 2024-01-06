@@ -2,9 +2,6 @@
 title: "Hello World"
 authors: 
     - radugheorghiu
-date: 
-    created: 2016-12-31
-    updated: 2024-01-05
 tags: []
 categories: ["Year in Review", "AI", "Data Engineering"]
 slug: "year-in-review-2016"
