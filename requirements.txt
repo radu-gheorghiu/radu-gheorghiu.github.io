@@ -1,0 +1,10 @@
+csv2md
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-material[recommended,git,imaging]
+mkdocstrings
+mkdocstrings-python
+mkdocs-video
+mkdocs-glightbox
+mkdocs-rss-plugin
