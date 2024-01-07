@@ -4,7 +4,7 @@ authors:
     - radugheorghiu
 date: 
     created: 2016-12-16
-    updated: 2024-05-01
+    updated: 2024-01-05
 tags: []
 categories: ["Data Engineering", "SQL Server"]
 slug: "how-to-find-queries-while-tracing-sql-server"
