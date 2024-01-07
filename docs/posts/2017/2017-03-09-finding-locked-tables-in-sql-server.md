@@ -2,6 +2,9 @@
 title: "Finding locked tables in SQL Server"
 authors: 
     - radugheorghiu
+date: 
+    created: 2017-03-09
+    updated: 2024-01-06
 tags: []
 categories: ["Data Engineering", "SQL Server"]
 slug: "finding-locked-tables-in-sql-server"

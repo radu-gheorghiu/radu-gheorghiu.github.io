@@ -2,6 +2,9 @@
 title: "Simplifying LIKE conditions in WHERE clause"
 authors: 
     - radugheorghiu
+date: 
+    created: 2017-01-13
+    updated: 2024-01-06
 tags: []
 categories: ["Data Engineering", "SQL Server"]
 slug: "simplifying-like-conditions-in-where-clause"

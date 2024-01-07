@@ -2,6 +2,9 @@
 title: "Split string in SQL Server with Recursive CTE"
 authors: 
     - radugheorghiu
+date: 
+    created: 2017-03-02
+    updated: 2024-01-06
 tags: []
 categories: ["Data Engineering", "SQL Server"]
 slug: "split-string-in-sql-server-with-recursive-cte"

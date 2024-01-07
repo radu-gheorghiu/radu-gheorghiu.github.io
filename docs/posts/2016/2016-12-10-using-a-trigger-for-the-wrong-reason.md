@@ -2,6 +2,9 @@
 title: "How to use a SQL trigger for the wrong reason"
 authors: 
     - radugheorghiu
+date: 
+    created: 2016-12-10
+    updated: 2024-05-01
 tags: ["sql-server", "data-engineering"]
 categories: ["Data Engineering", "SQL Server"]
 slug: "how-to-use-a-sql-trigger-for-the-wrong-reason"
