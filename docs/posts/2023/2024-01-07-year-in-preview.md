@@ -14,7 +14,7 @@ slug: "year-in-review-2023"
 
 On the 30th of November 2022, I created my ChatGPT account and started trying out the capabilities of ChatGPT, which back then represented a major disruption of what we knew as chatbots. I remember trying out in the first days the capabilities of the chatbot, mainly focusing on what we would now call "reasoning" capabilites. I tested out its flexibility, it's understanding of instructions and its ability to accomplish tasks.
 
-<!--more-->
+<!-- more -->
 
 But having a chatbot that could more directly reply to your questions, in natural language, did not feel like a big enough breakthrough that could change the world. It was a nice to have, but it was not a must have. It was not a game changer.
 
