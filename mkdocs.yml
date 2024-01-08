@@ -36,6 +36,7 @@ copyright: Copyright &copy; 2024 Radu Gheorghiu
 
 theme:
   name: material
+  favicon: assets/favicon.ico
   features:
     - navigation.sections
     - navigation.indexes
