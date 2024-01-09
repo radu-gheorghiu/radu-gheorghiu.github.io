@@ -9,7 +9,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/gheorghiuradu/
     - icon: material/email
-      link: mailto:radu_gheorghiu@live.com
+      link: mailto:radu_gheorghiu@live.com?subject=Hello From a Blog Reader!&body=[leave this unchanged, it helps me filter out spam]
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/raduqq
     - icon: fontawesome/brands/medium
@@ -37,6 +37,8 @@ copyright: Copyright &copy; 2024 Radu Gheorghiu
 theme:
   name: material
   favicon: assets/favicon.ico
+  logo: assets/favicon.ico
+  logo_bottom: assets/favicon.ico
   features:
     - navigation.sections
     - navigation.indexes
