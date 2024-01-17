@@ -114,6 +114,56 @@ Unfortunately, when the OpenAI hackathon came, we were both exhausted and we did
 
 I had some problems which took me a few months to recover from so I could just do my full-time job and then I could do no more. I struggled to find the energy to do some extra reading on the topic of LLMs, to keep in touch with what the community would build and what are the developments.
 
+However, even though I was out for a while the [e/acc movement](https://en.wikipedia.org/wiki/Effective_accelerationism) was pushing for more development and more progress in this technology. It seems like nothing is going to stop progress in this space and the community will keep pushing forward.
+
+### Getting back on track - learn/acc
+
+Once I got healthy enough to get back into the space, I had already been following the courses that Databricks announced they would do in order to teach people how to work with LLMs.  And so starting in early June, I took part in the first cohort of students that would follow their two-part LLM course series.
+
+#### LLM101x: LLM's - Application through Production
+
+During this first course, the "LLM101x: LLM's - Application through Production" I learned how to:
+
+- create and deploy Large Language Models (LLMs)
+- started from the basics of Natural Language Processing (NLP) all the way to cutting-edge applications
+
+The course was designed for technical roles like mine and covered a broad spectrum, including the emerging field of LLMOps and the societal impact of LLMs.
+
+I got hands-on experience with the Databricks environment and the Hugging Face library. 
+
+Specifically, I dived into:
+
+- foundational NLP tasks
+- vector databases
+- multi-stage reasoning
+- fine-tuning
+- model selection
+- model evaluation
+
+<div align="center">
+    <img src="/assets/blog_images/2023-12-31-year-in-review/llm01_certificate.png" alt="GPU Workstation" title="GPU Workstation"/>
+    <figcaption><i><a href="https://courses.edx.org/certificates/b24e76ef46be4bd0914ba3e610a500f4">LLM101x certificate of completion</a></i></figcaption>
+</div>
+
+#### LLM102x: LLM's - Foundation Models from the Ground Up
+
+In the second course, "LLM102x: LLM's - Foundation Models from the Ground Up" I went beyond the surface to understand the inner workings of Large Language Models (LLMs). Aimed at technical practitioners and scientists, the course gave me a strong technical and theoretical foundation.
+
+Starting from the basics like the transformer block and attention mechanism, it moved to advanced topics like multi-modal LLMs. I learned about parameter-efficient fine-tuning (PEFT), quantization, and Mixture-of-Experts (MoE) approaches for efficient deployment.
+
+The course also gave me the chance to deepen my skills in PyTorch and get hands-on experience with the Databricks environment and Hugging Face platform.
+
+Specific topics covered included:
+
+- the transformer architecture
+- efficient fine-tuning
+- optimizing deployment and training for LLMs
+
+<div align="center">
+    <img src="/assets/blog_images/2023-12-31-year-in-review/llm02_certificate.png" alt="GPU Workstation" title="GPU Workstation" />
+    <figcaption><i><a href="https://courses.edx.org/certificates/a46fd8922f834b04bce3870614a71ccc">LLM102x certificate of completion</a></i></figcaption>
+</div>
+
 ### Keeping up with the community
 
 Even though I couldn't spend much time in actually coding, I still wanted to keep up with the community and that is when I started diving into Twitter more, until I found [@swyx](https://twitter.com/swyx), who was one of the most enthusiastic and active people that I have ever seen. He shared tons of ideas of new concepts and roles for software engineers, he defined the first roles and responsibilites of the new "AI Engineer", in his [Latent Space](https://www.latent.space/) post, ["The Rise of the AI Engineer"](https://www.latent.space/p/ai-engineer?).
